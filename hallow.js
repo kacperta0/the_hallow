@@ -49,7 +49,7 @@ letter[21] = "V";
 letter[22] = "W";
 letter[23] = "X";
 letter[24] = "Y";
-letter[25] = "Z";
+letter[25] = "Z"; // Ż etc.
 
 
 
